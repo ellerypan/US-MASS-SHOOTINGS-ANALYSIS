@@ -1,7 +1,10 @@
 # US-MASS-SHOOTINGS-ANALYSIS
 
+## Dataset
+platform:https://www.kaggle.com/zusmani/us-mass-shootings-last-50-years
+
 ## Introduction
-Mass Shootings in the United States of America (1966-2017) The US has witnessed 398 mass shootings in the last 50 years that resulted in 1,996 deaths and 2,488 injured. The dataset was accessed on "Kaggle Dataset” platform:https://www.kaggle.com/zusmani/us-mass-shootings-last-50-years. In my country, China, the gun was banned so I wonder how shootings distribute across the U.S. and explore the reasons behind these attacks. To be more specific, the questions I am curious about would be like:
+This dataset records 398 mass shootings happened in the U.S that have caused 1996 deaths and 2488 injured in last 50 years. In my country, China, the gun was banned and I wonder, in America, where guns are allowed to be purchased, how shootings distribute across the country and would like to explore the reasons behind these attacks. To be more specific, the questions I am curious about would be like:
 - What cities and states are prone to such attacks?
 - How many shooters have some kind of mental health problem? 
 - Is there any correlation with calendar dates?
