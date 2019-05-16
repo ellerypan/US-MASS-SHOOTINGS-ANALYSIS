@@ -1,7 +1,7 @@
 # US MASS SHOOTINGS ANALYSIS
 
 ## Dataset
-platform:https://www.kaggle.com/zusmani/us-mass-shootings-last-50-years
+https://www.kaggle.com/zusmani/us-mass-shootings-last-50-years
 
 ## Introduction
 This dataset records 398 mass shootings happened in the U.S that have caused 1996 deaths and 2488 injured in last 50 years. In my country, China, the gun was banned and I wonder, in America, where guns are allowed to be purchased, how shootings distribute across the country and would like to explore the reasons behind these attacks. To be more specific, the questions I am curious about would be like:
