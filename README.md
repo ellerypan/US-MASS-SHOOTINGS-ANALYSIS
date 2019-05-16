@@ -1,4 +1,4 @@
-# US-MASS-SHOOTINGS-ANALYSIS
+# US MASS SHOOTINGS ANALYSIS
 
 ## Dataset
 platform:https://www.kaggle.com/zusmani/us-mass-shootings-last-50-years
